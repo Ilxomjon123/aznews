@@ -7,5 +7,7 @@
 @yield('content')
 
 @include('inc.footer')
+
+@include('inc.page-js')
 </body>
 </html>
